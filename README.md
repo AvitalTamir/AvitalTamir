@@ -1,8 +1,7 @@
 ## Hi, my name is Avital Tamir 👋
 
 - 👨‍💻 I work as a Software Engineer at [groundcover](https://www.groundcover.com)
-- 👷 I'm building [Cyphernetes](https://github.com/AvitalTamir/cyphernetes), a graph query language for Kubernetes.
-- ❤️ I love crafting good user experiences and enjoy building with cool people.
+- 👷 I'm building [Cyphernetes](https://github.com/AvitalTamir/cyphernetes), a graph query language for Kubernetes
 - 🧁 Made a modern Japanese patisserie inspired low-contrast light theme for VSCode called [purddy](https://marketplace.visualstudio.com/items?itemName=Cyphernetes.purddy)
 - 📫 Reach me at [avital@cyphernet.es](mailto:avital@cyphernet.es)
 
